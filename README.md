@@ -119,7 +119,7 @@ buybuddy-parent
 
 ## 👤 Author
 
-**Prathamesh Kumbhar**  
+**Suraj Kalugade**  
 Java Backend Developer
 
 ---
